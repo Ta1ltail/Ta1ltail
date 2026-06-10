@@ -25,7 +25,6 @@
 const justin: Developer = {
   name:    "Justin Javier",
   alias:   "Ta1ltail",
-  email:   "jjavier292002@gmail.com,
   role:    "Full-Stack Developer",
   hobbies: ["♟️ Chess", "🎬 Movies", "🌙 Late-night coding"],
   stack:   ["React", "Next.js", "Laravel", "PHP"],
