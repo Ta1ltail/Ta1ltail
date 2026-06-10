@@ -1,210 +1,163 @@
-<!-- ANIMATED HEADER BANNER -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED HEADER                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Justin%20Javier&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20🇵🇭%20Philippines&descColor=a8b2d8&descSize=20&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,30:1b2838,60:162032,100:0f3460&height=220&section=header&text=Justin%20Javier&fontSize=72&fontColor=e2e8f0&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20%F0%9F%87%B5%F0%9F%87%AD%20Philippines&descColor=64b5f6&descSize=22&descAlignY=62)
 
 </div>
 
-<!-- TYPING ANIMATION -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  TYPING ANIMATION                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=Hey%2C+I'm+Justin+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%87%B5%F0%9F%87%AD;TypeScript+%2B+JavaScript+%2B+PHP+Dev;Building+cool+things%2C+one+commit+at+a+time+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Justin+%F0%9F%91%8B;Full-Stack+Dev+from+the+PH+%F0%9F%87%B5%F0%9F%87%AD;TypeScript+%2B+React+%2B+Laravel;Turning+ideas+into+real+products+%F0%9F%9A%80;Chess+%E2%99%9F%EF%B8%8F+%7C+Movies+%F0%9F%8E%AC+%7C+Code+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-<!-- GIF + ABOUT SIDE BY SIDE -->
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    ABOUT ME SECTION                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="32"/>
+  &nbsp;<span style="color:#58A6FF">About Me</span>
+</h2>
+
 <div align="center">
-<img align="right" width="380" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" alt="coding gif"/>
-
-### 🧑‍💻 About Me
-
-</div>
 
 ```ts
 const justin: Developer = {
-  name:       "Justin Javier",
-  alias:      "Ta1ltail",
-  location:   "Philippines 🇵🇭",
-  pronouns:   "he/him",
-  role:       "Full-Stack Developer",
-  hobbies:    ["♟️ Chess", "🎬 Movies", "🌙 Late-night coding"],
-  stack:      ["TypeScript", "React", "Next.js", "Laravel", "PHP"],
-  openTo:     ["Freelance", "Collaboration", "Open Source"],
-  funFact:    "I debug best after midnight ⚡",
+  name       : "Justin Javier",
+  alias      : "Ta1ltail",
+  location   : "Trece Martires City, Cavite 🇵🇭",
+  pronouns   : "he/him",
+  role       : "Full-Stack Developer",
+  hobbies    : ["♟️ Chess", "🎬 Movies", "🌙 Late-night coding sessions"],
+  stack      : ["TypeScript", "React", "Next.js", "Laravel", "PHP"],
+  openTo     : ["Freelance", "Collaborations", "Open Source"],
+  funFact    : "My best code is written after midnight ⚡",
+  currentlyOn: "Building fingerprint auth systems & personal portfolio",
 };
 ```
 
-<br clear="right"/>
+</div>
+
+<!-- YOUR OWN GIF — replace the URL below with your raw GitHub link after uploading -->
+<!-- Upload your gif to your Ta1ltail/Ta1ltail repo and use its raw URL like:        -->
+<!-- https://raw.githubusercontent.com/Ta1ltail/Ta1ltail/main/your-gif.gif          -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ta1ltail/Ta1ltail/main/coding.gif" width="480" alt="coding gif" />
+</div>
+
+<br/>
 
 ---
 
-## 🌐 Connect
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    CONNECT SECTION                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🌐 &nbsp;Connect With Me</h2>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://justinjavier-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justin-javier292002)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Tailtail.m)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ta1ltail)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230f3460.svg?style=for-the-badge&logo=vercel&logoColor=64b5f6)](https://justinjavier-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230f3460.svg?style=for-the-badge&logo=linkedin&logoColor=64b5f6)](https://www.linkedin.com/in/justin-javier292002)
+[![Instagram](https://img.shields.io/badge/Instagram-%230f3460.svg?style=for-the-badge&logo=instagram&logoColor=64b5f6)](https://www.instagram.com/ta1ltail)
+[![Facebook](https://img.shields.io/badge/Facebook-%230f3460.svg?style=for-the-badge&logo=facebook&logoColor=64b5f6)](https://www.facebook.com/Tailtail.m/)
+[![GitHub](https://img.shields.io/badge/GitHub-%230f3460.svg?style=for-the-badge&logo=github&logoColor=64b5f6)](https://github.com/Ta1ltail)
 
 </div>
+
+<br/>
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   TECH STACK SECTION                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
+<h2 align="center">🛠️ &nbsp;Tech Stack</h2>
+
+<!-- ANIMATED ICON STRIP — scrolling marquee effect -->
 <div align="center">
 
-### 📝 Languages
+<h3 align="center">📝 Languages</h3>
 
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TypeScript"/>
-      <br><sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript"/>
-      <br><sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP"/>
-      <br><sub><b>PHP</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java"/>
-      <br><sub><b>Java</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/>
-      <br><sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="C#"/>
-      <br><sub><b>C#</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=dart" width="45" height="45" alt="Dart"/>
-      <br><sub><b>Dart</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML"/>
-      <br><sub><b>HTML</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS"/>
-      <br><sub><b>CSS</b></sub>
-    </td>
-  </tr>
-</table>
+[![My Skills](https://skillicons.dev/icons?i=ts,js,php,java,python,cs,dart,html,css&theme=dark&perline=9)](https://skillicons.dev)
 
-### 🚀 Frameworks & Libraries
+<h3 align="center">🚀 Frameworks & Libraries</h3>
 
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel"/>
-      <br><sub><b>Laravel</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React"/>
-      <br><sub><b>React</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js"/>
-      <br><sub><b>Next.js</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap"/>
-      <br><sub><b>Bootstrap</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind"/>
-      <br><sub><b>Tailwind</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter"/>
-      <br><sub><b>Flutter</b></sub>
-    </td>
-  </tr>
-</table>
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,laravel,bootstrap,tailwind,flutter&theme=dark&perline=6)](https://skillicons.dev)
 
-### ⚙️ Technologies & Databases
+<h3 align="center">⚙️ Technologies & Databases</h3>
 
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/>
-      <br><sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/>
-      <br><sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL"/>
-      <br><sub><b>PostgreSQL</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/>
-      <br><sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
-      <br><sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma"/>
-      <br><sub><b>Figma</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code"/>
-      <br><sub><b>VS Code</b></sub>
-    </td>
-  </tr>
-</table>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,postgres,git,github,figma,vscode&theme=dark&perline=7)](https://skillicons.dev)
 
 </div>
+
+<br/>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   GITHUB STATS SECTION                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">📊 &nbsp;GitHub Stats</h2>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ta1ltail&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Ta1ltail&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="github stats" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ta1ltail&theme=tokyonight&hide_border=true&background=0D1117&ring=64b5f6&fire=64b5f6&currStreakLabel=64b5f6&sideLabels=64b5f6&dates=a8b2d8" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ta1ltail&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64b5f6&icon_color=64b5f6&text_color=a8b2d8" width="49%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ta1ltail&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="top languages" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ta1ltail&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64b5f6&text_color=a8b2d8" width="52%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ta1ltail&theme=tokyonight" alt="profile summary" width="98%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ta1ltail&theme=tokyonight" width="98%"/>
 
 </div>
+
+<br/>
 
 ---
 
-## 📌 Featured Projects
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  FEATURED PROJECTS                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">📌 &nbsp;Featured Projects</h2>
 
 <div align="center">
 
-[![javierjustin-website](https://github-readme-stats.vercel.app/api/pin/?username=Ta1ltail&repo=javierjustin-website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)](https://github.com/Ta1ltail/javierjustin-website)
-[![fingerprint-auth-system](https://github-readme-stats.vercel.app/api/pin/?username=Ta1ltail&repo=fingerprint-auth-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)](https://github.com/Ta1ltail/fingerprint-auth-system)
+[![javierjustin-website](https://github-readme-stats.vercel.app/api/pin/?username=Ta1ltail&repo=javierjustin-website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64b5f6&icon_color=64b5f6)](https://github.com/Ta1ltail/javierjustin-website)
+[![fingerprint-auth-system](https://github-readme-stats.vercel.app/api/pin/?username=Ta1ltail&repo=fingerprint-auth-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64b5f6&icon_color=64b5f6)](https://github.com/Ta1ltail/fingerprint-auth-system)
 
 </div>
 
+<br/>
+
 ---
 
-## ✍️ Random Dev Quote
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    DEV QUOTE                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">✍️ &nbsp;Dev Quote</h2>
 
 <div align="center">
 
@@ -212,11 +165,16 @@ const justin: Developer = {
 
 </div>
 
+<br/>
+
 ---
 
-<!-- FOOTER WAVE -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED FOOTER                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,30:1b2838,60:162032,100:0f3460&height=140&section=footer)
 
 </div>
