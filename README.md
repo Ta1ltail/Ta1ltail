@@ -1,32 +1,27 @@
-<!-- ANIMATED HEADER BANNER -->
+<!-- ANIMATED HEADER BANNER — matches footer color (teal/cyan gradient) -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Justin%20Javier&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20🇵🇭%20Philippines&descColor=a8b2d8&descSize=20&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=200&section=header&text=Justin%20Javier&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20things%20that%20matter&descColor=a8f0e8&descSize=20&descAlignY=60)
 
 </div>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION — bigger, color transition, better tagline -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=Hey%2C+I'm+Justin+%F0%9F%91%8B;Full-Stack+Developer+from+the+Philippines+%F0%9F%87%B5%F0%9F%87%AD;TypeScript+%2B+JavaScript+%2B+PHP+Dev;Building+cool+things%2C+one+commit+at+a+time+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00F5C4&center=true&vCenter=true&multiline=false&width=750&lines=Hey%2C+I'm+Justin+%F0%9F%91%8B;Full-Stack+Developer+%26+Problem+Solver;TypeScript+%2B+PHP+%2B+Everything+in+between;Turning+ideas+into+real+products+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-<!-- GIF + ABOUT SIDE BY SIDE -->
-<div align="center">
-<img align="right" width="380" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" alt="coding gif"/>
+---
 
-### 🧑‍💻 About Me
-
-</div>
+## 🧑‍💻 About Me
 
 ```ts
 const justin: Developer = {
   name:       "Justin Javier",
   alias:      "Ta1ltail",
-  location:   "Philippines 🇵🇭",
   pronouns:   "he/him",
   role:       "Full-Stack Developer",
   hobbies:    ["♟️ Chess", "🎬 Movies", "🌙 Late-night coding"],
@@ -36,7 +31,9 @@ const justin: Developer = {
 };
 ```
 
-<br clear="right"/>
+<div align="center">
+  <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" alt="coding gif" width="480"/>
+</div>
 
 ---
 
@@ -44,10 +41,11 @@ const justin: Developer = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://justinjavier-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justin-javier292002)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Tailtail.m)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ta1ltail)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300F5C4?style=for-the-badge&logo=vercel&logoColor=000000)](http://justinjavier-portfolio.vercel.app/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-javier292002)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ta1ltail)&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Tailtail.m/)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ta1ltail)
 
 </div>
 
@@ -59,112 +57,21 @@ const justin: Developer = {
 
 ### 📝 Languages
 
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TypeScript"/>
-      <br><sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript"/>
-      <br><sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP"/>
-      <br><sub><b>PHP</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java"/>
-      <br><sub><b>Java</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/>
-      <br><sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="C#"/>
-      <br><sub><b>C#</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=dart" width="45" height="45" alt="Dart"/>
-      <br><sub><b>Dart</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML"/>
-      <br><sub><b>HTML</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS"/>
-      <br><sub><b>CSS</b></sub>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,php,java,python,cs,dart,html,css&perline=9&theme=dark" />
+</p>
 
 ### 🚀 Frameworks & Libraries
 
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel"/>
-      <br><sub><b>Laravel</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React"/>
-      <br><sub><b>React</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js"/>
-      <br><sub><b>Next.js</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap"/>
-      <br><sub><b>Bootstrap</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind"/>
-      <br><sub><b>Tailwind</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter"/>
-      <br><sub><b>Flutter</b></sub>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,bootstrap,tailwind,flutter&perline=6&theme=dark" />
+</p>
 
 ### ⚙️ Technologies & Databases
 
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/>
-      <br><sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/>
-      <br><sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL"/>
-      <br><sub><b>PostgreSQL</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/>
-      <br><sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
-      <br><sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma"/>
-      <br><sub><b>Figma</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code"/>
-      <br><sub><b>VS Code</b></sub>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,git,github,figma,vscode&perline=7&theme=dark" />
+</p>
 
 </div>
 
@@ -174,14 +81,14 @@ const justin: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ta1ltail&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Ta1ltail&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="github stats" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ta1ltail&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5C4&fire=00F5C4&currStreakLabel=00F5C4" alt="streak stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ta1ltail&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5C4&icon_color=00F5C4" alt="github stats" width="49%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ta1ltail&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="top languages" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ta1ltail&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5C4" alt="top languages" width="50%"/>
 
 </div>
 
@@ -197,8 +104,8 @@ const justin: Developer = {
 
 <div align="center">
 
-[![javierjustin-website](https://github-readme-stats.vercel.app/api/pin/?username=Ta1ltail&repo=javierjustin-website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)](https://github.com/Ta1ltail/javierjustin-website)
-[![fingerprint-auth-system](https://github-readme-stats.vercel.app/api/pin/?username=Ta1ltail&repo=fingerprint-auth-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)](https://github.com/Ta1ltail/fingerprint-auth-system)
+[![javierjustin-website](https://github-readme-stats.vercel.app/api/pin/?username=Ta1ltail&repo=javierjustin-website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5C4&icon_color=00F5C4)](https://github.com/Ta1ltail/javierjustin-website)
+[![fingerprint-auth-system](https://github-readme-stats.vercel.app/api/pin/?username=Ta1ltail&repo=fingerprint-auth-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5C4&icon_color=00F5C4)](https://github.com/Ta1ltail/fingerprint-auth-system)
 
 </div>
 
@@ -214,10 +121,9 @@ const justin: Developer = {
 
 ---
 
-<!-- FOOTER WAVE -->
+<!-- FOOTER WAVE — same color as header -->
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=120&section=footer)
 
 </div>
-
