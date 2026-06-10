@@ -133,11 +133,14 @@ const justin: Developer = {
 
 ---
 
-<!-- PROFILE VIEWS COUNTER -->
+<!-- STATS ROW -->
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ta1ltail&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Ta1ltail&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)&nbsp;
+![Repositories](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0D0D0D&color=7C3AED&label=REPOSITORIES&query=public_repos&url=https://api.github.com/users/Ta1ltail)&nbsp;
+![Contributions](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0D0D0D&color=A855F7&label=CONTRIBUTIONS&query=$.contributions&url=https://github-contributions-api.deno.dev/Ta1ltail.json)&nbsp;
+![Commits](https://img.shields.io/github/commit-activity/t/Ta1ltail/Ta1ltail?style=for-the-badge&labelColor=0D0D0D&color=E879F9&label=COMMITS)
 
 </div>
 
