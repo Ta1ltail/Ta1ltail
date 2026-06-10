@@ -1,14 +1,14 @@
-<!-- ANIMATED HEADER BANNER — matches footer color (teal/cyan gradient) -->
+<!-- ANIMATED HEADER BANNER — purple gradient -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=200&section=header&text=Justin%20Javier&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20things%20that%20matter&descColor=a8f0e8&descSize=20&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19&height=180&section=header)
 
 </div>
 
-<!-- TYPING ANIMATION — bigger, color transition, better tagline -->
+<!-- TYPING ANIMATION -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00F5C4&center=true&vCenter=true&multiline=false&width=750&lines=Hey%2C+I'm+Justin+%F0%9F%91%8B;Full-Stack+Developer+%26+Problem+Solver;TypeScript+%2B+PHP+%2B+Everything+in+between;Turning+ideas+into+real+products+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&multiline=false&width=750&lines=Hey%2C+I'm+Justin+Javier+%F0%9F%91%8B;A+Full-Stack+Developer;Nice+to+meet+you+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,7 +22,6 @@
 const justin: Developer = {
   name:       "Justin Javier",
   alias:      "Ta1ltail",
-  pronouns:   "he/him",
   role:       "Full-Stack Developer",
   hobbies:    ["♟️ Chess", "🎬 Movies", "🌙 Late-night coding"],
   stack:      ["TypeScript", "React", "Next.js", "Laravel", "PHP"],
@@ -32,7 +31,7 @@ const justin: Developer = {
 ```
 
 <div align="center">
-  <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" alt="coding gif" width="480"/>
+  <img src="https://raw.githubusercontent.com/Ta1ltail/Ta1ltail/main/gif.gif" alt="coding gif" width="480"/>
 </div>
 
 ---
@@ -121,9 +120,9 @@ const justin: Developer = {
 
 ---
 
-<!-- FOOTER WAVE — same color as header -->
+<!-- FOOTER WAVE — purple gradient matching header -->
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19&height=120&section=footer)
 
 </div>
