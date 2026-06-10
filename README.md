@@ -109,23 +109,7 @@ const justin: Developer = {
 
 </div>
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ta1ltail&theme=tokyonight" alt="profile summary" width="98%"/>
-
-</div>
-
-<!-- ANIMATED CONTRIBUTION SNAKE -->
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="98%"/>
-</picture>
-
-</div>
-
+---
 ---
 
 <!-- ╔══════════════════════════════════════════════╗ -->
