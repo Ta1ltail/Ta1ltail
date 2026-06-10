@@ -1,15 +1,14 @@
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!-- ║        ANIMATED HEADER — PURPLE WAVE         ║ -->
-<!-- ╚══════════════════════════════════════════════╝ -->
+
+<!-- ANIMATED HEADER -->
+
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19&height=200&section=header&animation=twinkling)
 
 </div>
 
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!-- ║          ANIMATED TYPING SVG                 ║ -->
-<!-- ╚══════════════════════════════════════════════╝ -->
+<!-- ANIMATED TYPING SVG -->
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=700&color=C084FC&center=true&vCenter=true&multiline=false&width=780&lines=Hey%2C+I'm+Justin+Javier+%F0%9F%91%8B;A+Full-Stack+Developer+%E2%9A%A1;Nice+to+meet+you+%E2%9C%A8)](https://git.io/typing-svg)
@@ -18,11 +17,9 @@
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!-- ║              ABOUT ME                        ║ -->
-<!-- ╚══════════════════════════════════════════════╝ -->
+<!-- ABOUT ME -->
 
-## 🧑‍💻 About Me
+##  About Me
 
 ```ts
 const justin: Developer = {
@@ -42,9 +39,7 @@ const justin: Developer = {
 
 ---
 
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!-- ║          CONNECT — ANIMATED BADGES           ║ -->
-<!-- ╚══════════════════════════════════════════════╝ -->
+<!-- ONNECT — ANIMATED BADGES -->
 
 ## 🌐 Connect
 
@@ -60,9 +55,7 @@ const justin: Developer = {
 
 ---
 
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!-- ║       TECH STACK — ANIMATED ICONS            ║ -->
-<!-- ╚══════════════════════════════════════════════╝ -->
+<!-- TECH STACK — ANIMATED ICONS -->
 
 ## 🛠️ Tech Stack
 
@@ -90,9 +83,7 @@ const justin: Developer = {
 
 ---
 
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!-- ║          GITHUB STATS — ANIMATED             ║ -->
-<!-- ╚══════════════════════════════════════════════╝ -->
+<!-- GITHUB STATS  -->
 
 ## 📊 GitHub Stats
 
@@ -117,9 +108,7 @@ const justin: Developer = {
 
 ---
 
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!-- ║          FEATURED PROJECTS                   ║ -->
-<!-- ╚══════════════════════════════════════════════╝ -->
+<!-- FEATURED PROJECTS -->
 
 ## 📌 Featured Projects
 
@@ -132,9 +121,7 @@ const justin: Developer = {
 
 ---
 
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!-- ║           QUOTE                              ║ -->
-<!-- ╚══════════════════════════════════════════════╝ -->
+<!-- QUOTE -->
 
 ## 💬 Quote
 
@@ -146,9 +133,7 @@ const justin: Developer = {
 
 ---
 
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!-- ║      PROFILE VIEWS COUNTER                   ║ -->
-<!-- ╚══════════════════════════════════════════════╝ -->
+<!-- PROFILE VIEWS COUNTER -->
 
 <div align="center">
 
@@ -156,9 +141,7 @@ const justin: Developer = {
 
 </div>
 
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!-- ║        ANIMATED FOOTER — PURPLE WAVE         ║ -->
-<!-- ╚══════════════════════════════════════════════╝ -->
+<!-- ANIMATED FOOTER — PURPLE WAVE -->
 <div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19&height=120&section=footer&animation=twinkling)
