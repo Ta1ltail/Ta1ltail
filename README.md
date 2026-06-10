@@ -39,6 +39,7 @@ const justin: Developer = {
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=Ta1ltail&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)&nbsp;
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0D0D0D&color=7C3AED&label=REPOS&query=public_repos&url=https://api.github.com/users/Ta1ltail)&nbsp;
 <!-- ONNECT — ANIMATED BADGES -->
 
 ## 🌐 Connect
