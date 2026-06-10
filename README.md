@@ -43,8 +43,7 @@ const justin: Developer = {
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ta1ltail&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)&nbsp;
-![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0D0D0D&color=7C3AED&label=REPOS&query=public_repos&url=https://api.github.com/users/Ta1ltail&logo=github&logoColor=white)&nbsp;
-![Stars](https://img.shields.io/github/stars/Ta1ltail?style=for-the-badge&labelColor=0D0D0D&color=A855F7&logo=github&logoColor=white&label=STARS)&nbsp;
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0D0D0D&color=7C3AED&label=REPOSITORIES&query=public_repos&url=https://api.github.com/users/Ta1ltail&logo=github&logoColor=white)&nbsp;
 ![Followers](https://img.shields.io/github/followers/Ta1ltail?style=for-the-badge&labelColor=0D0D0D&color=E879F9&logo=github&logoColor=white&label=FOLLOWERS)
 
 </div>
