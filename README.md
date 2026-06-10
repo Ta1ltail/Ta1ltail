@@ -11,7 +11,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=700&color=C084FC&center=true&vCenter=true&multiline=false&width=780&lines=Hey%2C+I'm+Justin+Javier+%F0%9F%91%8B;A+Full-Stack+Developer+%E2%9A%A1;Nice+to+meet+you+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=700&color=C084FC&center=true&vCenter=true&multiline=false&width=780&lines=Hey%2C+I'm+Justin+Javier+%F0%9F%91%8B;A+Full-Stack+Developer;Nice+to+meet+you)](https://git.io/typing-svg)
 
 </div>
 
@@ -27,7 +27,7 @@ const justin: Developer = {
   alias:   "Ta1ltail",
   role:    "Full-Stack Developer",
   hobbies: ["♟️ Chess", "🎬 Movies", "🌙 Late-night coding"],
-  stack:   ["TypeScript", "React", "Next.js", "Laravel", "PHP"],
+  stack:   ["React", "Next.js", "Laravel", "PHP"],
   openTo:  ["Freelance", "Collaboration", "Open Source"],
   funFact: "I debug best after midnight ⚡",
 };
