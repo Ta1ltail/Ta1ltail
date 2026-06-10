@@ -38,7 +38,7 @@ const justin: Developer = {
 </div>
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=Ta1ltail&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)&nbsp;
 <!-- ONNECT — ANIMATED BADGES -->
 
 ## 🌐 Connect
@@ -137,7 +137,7 @@ const justin: Developer = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ta1ltail&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)&nbsp;
+
 
 </div>
 
