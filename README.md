@@ -1,4 +1,3 @@
-
 <!-- ANIMATED HEADER -->
 
 <div align="center">
@@ -19,7 +18,7 @@
 
 <!-- ABOUT ME -->
 
-##  About Me
+## About Me
 
 ```ts
 const justin: Developer = {
@@ -39,7 +38,7 @@ const justin: Developer = {
 
 ---
 
-<!-- ONNECT — ANIMATED BADGES -->
+<!-- CONNECT — ANIMATED BADGES -->
 
 ## 🌐 Connect
 
@@ -83,13 +82,13 @@ const justin: Developer = {
 
 ---
 
-<!-- GITHUB STATS  -->
+<!-- GITHUB STATS — ALL LIVE -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ta1ltail&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=E879F9&currStreakLabel=C084FC&sideLabels=A855F7&dates=7C3AED" alt="streak stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ta1ltail&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=E879F9&text_color=D8B4FE" alt="github stats" width="49%"/>
+  <img src="https://streak-stats.demolab.com/?user=Ta1ltail&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=E879F9&currStreakLabel=C084FC&sideLabels=A855F7&dates=7C3AED" alt="streak stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ta1ltail&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=E879F9&text_color=D8B4FE" alt="github stats" width="49%"/>
 </div>
 
 <div align="center">
@@ -108,14 +107,19 @@ const justin: Developer = {
 
 ---
 
-<!-- FEATURED PROJECTS -->
+<!-- FEATURED PROJECTS — LIVE REPO CARDS -->
 
 ## 📌 Featured Projects
 
 <div align="center">
 
-[![javierjustin-website](https://github-readme-stats.vercel.app/api/pin/?username=Ta1ltail&repo=javierjustin-website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=E879F9)](https://github.com/Ta1ltail/javierjustin-website)
+[![MovieApp-2026](https://github-readme-stats.vercel.app/api/pin/?username=Ta1ltail&repo=MovieApp-2026&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=E879F9)](https://github.com/Ta1ltail/MovieApp-2026)
 [![fingerprint-auth-system](https://github-readme-stats.vercel.app/api/pin/?username=Ta1ltail&repo=fingerprint-auth-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=E879F9)](https://github.com/Ta1ltail/fingerprint-auth-system)
+
+[![MangaXpress](https://github-readme-stats.vercel.app/api/pin/?username=Ta1ltail&repo=MangaXpress&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=E879F9)](https://github.com/Ta1ltail/MangaXpress)
+[![SyntaxMasters](https://github-readme-stats.vercel.app/api/pin/?username=Ta1ltail&repo=SyntaxMasters&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=E879F9)](https://github.com/Ta1ltail/SyntaxMasters)
+
+[![javierjustin-website](https://github-readme-stats.vercel.app/api/pin/?username=Ta1ltail&repo=javierjustin-website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=E879F9)](https://github.com/Ta1ltail/javierjustin-website)
 
 </div>
 
@@ -133,16 +137,16 @@ const justin: Developer = {
 
 ---
 
-<!-- STATS ROW -->
+<!-- STATS ROW — ALL LIVE, NO HARDCODED NUMBERS -->
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ta1ltail&style=for-the-badge&color=8B5CF6&labelColor=6D28D9&label=PROFILE+VIEWS)
-![Repos](https://img.shields.io/badge/REPOSITORIES-10-8B5CF6?style=for-the-badge&labelColor=4338CA&logo=github&logoColor=white)&nbsp;
-![Followers](https://img.shields.io/github/followers/Ta1ltail?style=for-the-badge&color=C084FC&labelColor=7E22CE&logo=github&logoColor=white&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=Ta1ltail&style=for-the-badge&color=8B5CF6&labelColor=6D28D9&label=PROFILE+VIEWS)&nbsp;
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FTa1ltail&query=%24.public_repos&label=REPOSITORIES&style=for-the-badge&color=8B5CF6&labelColor=4338CA&logo=github&logoColor=white)&nbsp;
+![Followers](https://img.shields.io/github/followers/Ta1ltail?style=for-the-badge&color=C084FC&labelColor=7E22CE&logo=github&logoColor=white&label=FOLLOWERS)&nbsp;
+![Stars](https://img.shields.io/github/stars/Ta1ltail?style=for-the-badge&color=E879F9&labelColor=86198F&logo=github&logoColor=white&label=TOTAL+STARS)
 
 </div>
-
 
 <!-- ANIMATED FOOTER — PURPLE WAVE -->
 <div align="center">
