@@ -159,14 +159,6 @@ const justin: Developer = {
 
 </div>
 
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ta1ltail&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" width="98%"/>
-
-</div>
-
 ### 📈 Activity
 
 <div align="center">
