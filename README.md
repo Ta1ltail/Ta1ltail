@@ -4,7 +4,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19&height=220&section=header&text=Justin%20Javier&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%203D%20Artist%20%E2%80%A2%20Game%20Dev&descSize=18&descAlignY=58)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=C084FC&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Game+Developer;3D+Artist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=C084FC&center=true&vCenter=true&width=600&lines=FULL-STACK+WEB+DEVELOPER;GAME+DEVELOPER;3D+ARTIST)](https://git.io/typing-svg)
 
 <br/>
 
