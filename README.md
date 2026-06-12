@@ -175,15 +175,6 @@ const justin: Developer = {
 
 </div>
 
-<!-- ════════════════════ SNAKE ANIMATION ════════════════════ -->
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Ta1ltail/Ta1ltail/output/github-snake-dark.svg" alt="snake animation" width="98%"/>
-
-</div>
-
-<br/>
 
 <!-- ════════════════════ FOOTER ════════════════════ -->
 
