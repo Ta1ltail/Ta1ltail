@@ -85,7 +85,6 @@ const justin: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ta1ltail&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=E879F9&text_color=D8B4FE" alt="github stats" height="170"/>
 
 <img src="https://streak-stats.demolab.com/?user=Ta1ltail&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=E879F9&currStreakLabel=C084FC&sideLabels=A855F7&dates=7C3AED" alt="streak stats" width="70%"/>
 
