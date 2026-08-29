@@ -16,7 +16,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Ta1ltail&style=flat-square&color=8B5CF6&label=profile+views)
 ![Followers](https://img.shields.io/github/followers/Ta1ltail?style=flat-square&color=C084FC&label=followers)
 ![Stars](https://img.shields.io/github/stars/Ta1ltail?style=flat-square&color=E879F9&label=total+stars)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FTa1ltail&query=%24.public_repos&label=repos&style=flat-square&color=A855F7)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FTa1ltail&query=%24.public_repos&label=publicrepos&style=flat-square&color=A855F7)
 
 </div>
 
